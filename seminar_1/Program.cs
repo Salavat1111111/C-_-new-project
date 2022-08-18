@@ -10,4 +10,3 @@ int sqrt = Convert.ToInt32(Math.Pow(num, 2));
 
 Console.WriteLine("Число в квадрате " + sqrt);
 
-
